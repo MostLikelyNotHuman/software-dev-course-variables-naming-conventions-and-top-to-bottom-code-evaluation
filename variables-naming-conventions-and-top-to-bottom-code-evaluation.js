@@ -30,3 +30,15 @@ let c = 20;
 let d = a + " bought " + b + " items for $" + c + ".";
 
 console.log(d);
+
+//Mine:
+
+
+let dateOfPurchase = "July 29"
+let timeOfPurchase = "10:19 AM"
+let personName = "Alice";
+let numberOfItems = 5;
+let totalPrice = 20;
+let checkoutMessage = "On " + dateOfPurchase + ", at " + timeOfPurchase + ", " + personName + " bought " + numberOfItems + " items for $" + totalPrice + ".";
+
+console.log(checkoutMessage);
