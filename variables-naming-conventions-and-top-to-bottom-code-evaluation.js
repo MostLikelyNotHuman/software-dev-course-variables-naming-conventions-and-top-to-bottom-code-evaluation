@@ -23,14 +23,6 @@ Things to reflect on:
   - How do clear variable names benefit team collaboration?
   
 */
-
-let a = "Alice";
-let b = 5;
-let c = 20;
-let d = a + " bought " + b + " items for $" + c + ".";
-
-console.log(d);
-
 //Mine:
 
 
